@@ -1,3 +1,13 @@
+<a href="https://github.com/realravipandit">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+    <img alt="Ravi's GitHub profile card" src="light_mode.svg">
+  </picture>
+</a>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Ravi%20Kumar%20Pandit&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20ERP%20%26%20Accounting%20Systems&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
 <div align="center">
